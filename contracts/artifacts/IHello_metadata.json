@@ -1,0 +1,60 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "bar",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "foo",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/a_15_interface.sol": "IHello"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/a_15_interface.sol": {
+			"keccak256": "0x9d69d6c1ee7e261d78fe42eecd337eba6e5e6b9a29ab4c979ed7e83935d9265b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://349540179db6573614477f2312d23feb74cda87abd7e968ef5f32cac64d0fe2f",
+				"dweb:/ipfs/QmdMGpMYg59DUt1uQYFknt6d4aLvFqpNbtaEL16LFwetJe"
+			]
+		}
+	},
+	"version": 1
+}
