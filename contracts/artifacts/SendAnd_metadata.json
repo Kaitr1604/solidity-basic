@@ -51,7 +51,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_12_send_receive_eth.sol": "Event"
+			"contracts/a_12_send_receive_eth.sol": "SendAnd"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -66,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/a_12_send_receive_eth.sol": {
-			"keccak256": "0x757305f7f06eba14991026e5e57f45df67766bcd0bf338804bd697063c5232f8",
+			"keccak256": "0x9e3746cf0b1ab09e2da17095f019c1e3b03460e03f06556140d7a4891b77e1e4",
 			"license": "None",
 			"urls": [
-				"bzz-raw://ed61730b1484e96affe7660281e4053d8f7811abd32b7ad4972ef4eb89e1c11c",
-				"dweb:/ipfs/QmbmjTQNsyqRSrEaANcuzHnyNHXepDr6MNNnrm4FrqFu4g"
+				"bzz-raw://c5b16e87b023d950fdb8ddc26009b3bab67d7718abbe43f9b93bfad7885ac19c",
+				"dweb:/ipfs/QmSUQhhqsjnxAA87xcXaXzAq8XWLzgy62kRibqkaBRLoPV"
 			]
 		}
 	},

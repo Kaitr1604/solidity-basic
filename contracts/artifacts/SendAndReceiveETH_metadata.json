@@ -25,14 +25,26 @@
 				"type": "event"
 			},
 			{
+				"inputs": [],
+				"name": "buyEther",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
 				"inputs": [
+					{
+						"internalType": "address payable",
+						"name": "receiver",
+						"type": "address"
+					},
 					{
 						"internalType": "uint256",
 						"name": "_amount",
 						"type": "uint256"
 					}
 				],
-				"name": "depositEvent",
+				"name": "sendEther",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -51,7 +63,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_12_send_receive_eth.sol": "Event"
+			"contracts/a_13_debug.sol": "SendAndReceiveETH"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -65,12 +77,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/a_12_send_receive_eth.sol": {
-			"keccak256": "0x757305f7f06eba14991026e5e57f45df67766bcd0bf338804bd697063c5232f8",
+		"contracts/a_13_debug.sol": {
+			"keccak256": "0xc5b75cf67b30e6e1d1a6e364431e362f8872b0a4f9c486fc681dec8ad5481e2a",
 			"license": "None",
 			"urls": [
-				"bzz-raw://ed61730b1484e96affe7660281e4053d8f7811abd32b7ad4972ef4eb89e1c11c",
-				"dweb:/ipfs/QmbmjTQNsyqRSrEaANcuzHnyNHXepDr6MNNnrm4FrqFu4g"
+				"bzz-raw://34aa59a907ecfe69cf0d689e98fdca64782974ae2e37f5c9f92fe60aa35385a1",
+				"dweb:/ipfs/QmaxcKnz3aozmM6R3qvGHKNaimHghdtaufr27saajRfUea"
 			]
 		}
 	},

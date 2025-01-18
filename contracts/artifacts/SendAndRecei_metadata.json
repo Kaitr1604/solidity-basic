@@ -51,7 +51,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_12_send_receive_eth.sol": "Event"
+			"contracts/a_12_send_receive_eth.sol": "SendAndRecei"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -66,11 +66,11 @@
 	},
 	"sources": {
 		"contracts/a_12_send_receive_eth.sol": {
-			"keccak256": "0x757305f7f06eba14991026e5e57f45df67766bcd0bf338804bd697063c5232f8",
+			"keccak256": "0xb3e1cc86e512ca034d0b9adb6e1e3356711afc0466cfe3fca196e6fbccc52850",
 			"license": "None",
 			"urls": [
-				"bzz-raw://ed61730b1484e96affe7660281e4053d8f7811abd32b7ad4972ef4eb89e1c11c",
-				"dweb:/ipfs/QmbmjTQNsyqRSrEaANcuzHnyNHXepDr6MNNnrm4FrqFu4g"
+				"bzz-raw://409c019b98be156d9702563f8cd409cef10ddb75f3137f1cea551d11e57c4255",
+				"dweb:/ipfs/QmbAqZqcYH4CmJqfkPJssMc2cArE7kp8pHr9bHz9LDaPS3"
 			]
 		}
 	},
