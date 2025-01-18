@@ -4,21 +4,7 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [
-			{
-				"inputs": [
-					{
-						"internalType": "string",
-						"name": "_name",
-						"type": "string"
-					}
-				],
-				"name": "foo",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			}
-		],
+		"abi": [],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -32,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/10_struct.sol": "Struct"
+			"contracts/11_event.sol": "Struct"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -46,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/10_struct.sol": {
-			"keccak256": "0x6a02839523f818454fdb77714b77092d25f185ecca89d551eec4ff6715ac23b4",
+		"contracts/11_event.sol": {
+			"keccak256": "0xbfdb7d3da98c6f1cfeaf231f32a14059139940b480e5331415a13de6e8158a1d",
 			"license": "None",
 			"urls": [
-				"bzz-raw://2806851f5951761b4add8c1743174972bbe9ee1300921e93717abfd655b8388e",
-				"dweb:/ipfs/Qmap7GCQ2GnPF7r6supc34TuLF1quo4Up1cHQRd1UgT7Bg"
+				"bzz-raw://73f51646820a408a13d4320d421204beec2d8aa4045cb5a3acd7ea2d6586441b",
+				"dweb:/ipfs/Qmc9w9ZwfNXYSEEPkqxMdu7TAreuvT1TE4FGwryjtbVAmS"
 			]
 		}
 	},
