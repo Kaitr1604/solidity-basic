@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: None
 pragma solidity 0.8.3;
 
-contract Function {
+contract ControllCondition {
 
     //default scope: private
     bool isEnabled; //true / false

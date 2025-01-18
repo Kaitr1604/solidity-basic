@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.3+commit.8d00100c"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_value",
+						"type": "uint256"
+					}
+				],
+				"name": "setValue",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/7_controlcondition.sol": "ControlC"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/7_controlcondition.sol": {
+			"keccak256": "0x1e3f4e07e2e270da954d41026aa391820949742cc989e222d9d7347d6cb12149",
+			"license": "None",
+			"urls": [
+				"bzz-raw://abf9bc54147f3c97012055381a7160f0f76c41331d4ef62c93d0fda80015d62f",
+				"dweb:/ipfs/Qme3AucUEZLmj2U9bokKyHEdvRB5jEvHTCeEpRkbCTreA5"
+			]
+		}
+	},
+	"version": 1
+}
