@@ -96,7 +96,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/10_struct.sol": "Array"
+			"contracts/9_mapping.sol": "Mapping"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -110,12 +110,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/10_struct.sol": {
-			"keccak256": "0x6a0b41d0834095516c359c8a9c51ce21789f96ebe2400cadfc15514ccb9f6d23",
+		"contracts/9_mapping.sol": {
+			"keccak256": "0x1553b5c4c5ab849c3ded4feb3e7e3ff746d4f105a38d0b95bee1b55a83818e53",
 			"license": "None",
 			"urls": [
-				"bzz-raw://bf86ee3c545f1c0e721073149587352417f03147cdb22ef90818187ee593701e",
-				"dweb:/ipfs/QmQtRX2rv3uiY5Hp7893eYSgr51jnE5jVc3HhM4pcTFzXu"
+				"bzz-raw://5e8760a6195964b7bb13498df44fbd9803602fffa75176dfecf0334af7483992",
+				"dweb:/ipfs/QmZ2rv3wqUK1arGwvoUJvPZ1vLY43LT2RQ7TuW9Xk6VMMy"
 			]
 		}
 	},

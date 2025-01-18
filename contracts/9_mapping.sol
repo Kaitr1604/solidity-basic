@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: None
 pragma solidity 0.8.3;
 
-contract Array {
+contract Mapping {
     // storage array: khai báo ở ngoài function, lưu trên node
     // memory array: no gas, khai báo trong function, giải phóng khi đóng function
     // array as parameter
