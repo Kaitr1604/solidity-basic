@@ -9,56 +9,6 @@
 				"inputs": [
 					{
 						"internalType": "uint256",
-						"name": "_a",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
-				"name": "b",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getEnabled",
-				"outputs": [
-					{
-						"internalType": "bool",
-						"name": "",
-						"type": "bool"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "getValue",
-				"outputs": [
-					{
-						"internalType": "uint256",
-						"name": "",
-						"type": "uint256"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
 						"name": "_value",
 						"type": "uint256"
 					}
@@ -82,7 +32,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/function.sol": "Function"
+			"contracts/7_controlcondition.sol": "Function"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -96,12 +46,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/function.sol": {
-			"keccak256": "0x0942df45bcac1a775cc416071a47fd4625401e429d7071d21ea479725b0ddc33",
+		"contracts/7_controlcondition.sol": {
+			"keccak256": "0x5c16ab140dbe2fae27e529e1b6aa62cb797cffdea500f15fbddc1a4e2c9323d8",
 			"license": "None",
 			"urls": [
-				"bzz-raw://c1ad6dc7840b64b9dbbb641bd0b28aaecd1e2f0bb81a01b681e07d0bf3425fbe",
-				"dweb:/ipfs/QmSF1yfbpoXYtEK2fjNqapxup62Xs5z4rWu8vWYM77ghT7"
+				"bzz-raw://7c2d5ac8c767e41b934f0e55be030f0fb0d7b7a38ce74f22e91856a922d24cc0",
+				"dweb:/ipfs/QmP2Ty39fpwwbqzQsNgZndAz86A2unrBab2ZzinbfMdF7S"
 			]
 		}
 	},

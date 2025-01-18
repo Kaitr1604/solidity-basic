@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/variables.sol": "Variables"
+			"contracts/5_variables.sol": "Variables"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -32,7 +32,7 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/variables.sol": {
+		"contracts/5_variables.sol": {
 			"keccak256": "0xf12e2efa4deec2e069ba30788b263160b8170de1d5173e3ffabfa385eb03b49a",
 			"license": "None",
 			"urls": [
