@@ -37,6 +37,39 @@
 				"type": "function"
 			},
 			{
+				"inputs": [],
+				"name": "memoryArray",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "pArray",
+						"type": "uint256[]"
+					}
+				],
+				"name": "parameterArray",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256[]",
+						"name": "pArray",
+						"type": "uint256[]"
+					}
+				],
+				"name": "parameterArrayMemory",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
 				"inputs": [
 					{
 						"internalType": "uint256",
@@ -78,11 +111,11 @@
 	},
 	"sources": {
 		"contracts/8_array.sol": {
-			"keccak256": "0xa0b7f0b5f2f5f9f6d2289bf95802a0bed8fadd0542b9776ccf879d77c2a189fa",
+			"keccak256": "0x6a0b41d0834095516c359c8a9c51ce21789f96ebe2400cadfc15514ccb9f6d23",
 			"license": "None",
 			"urls": [
-				"bzz-raw://0718836c25ba122c55eed1a21138978b58550c1528e810fe03c221c9b90a2d89",
-				"dweb:/ipfs/QmVo8fdQv1aMWULcsDzDHzE3Ht9AbRpaxEZAa6FqM5JmR9"
+				"bzz-raw://bf86ee3c545f1c0e721073149587352417f03147cdb22ef90818187ee593701e",
+				"dweb:/ipfs/QmQtRX2rv3uiY5Hp7893eYSgr51jnE5jVc3HhM4pcTFzXu"
 			]
 		}
 	},
