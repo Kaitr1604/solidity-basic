@@ -72,6 +72,13 @@
 			},
 			{
 				"inputs": [],
+				"name": "testInherit",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
 				"name": "testModifier",
 				"outputs": [],
 				"stateMutability": "nonpayable",
@@ -91,7 +98,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_13_debug.sol": "DEBUG"
+			"contracts/a_14_inheritance.sol": "Inheritance"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -111,6 +118,14 @@
 			"urls": [
 				"bzz-raw://6a2288d621374d92627990739aabae2a9debdaa421ba8463b7379561112b616d",
 				"dweb:/ipfs/QmQQkib9mbaA7dZATeFhzdE1N5JCkdkJPdaPAeY3jnKjzx"
+			]
+		},
+		"contracts/a_14_inheritance.sol": {
+			"keccak256": "0xa629cd077bf701f0765fb0ca9abdd3f61bebe09e652bf189bc3ddb833243ddf1",
+			"license": "None",
+			"urls": [
+				"bzz-raw://7980d9e612c6958b5cd15e350d5a63a752eb08d9b9ed142cca37fcef657d2b42",
+				"dweb:/ipfs/QmS39cpDH5mKF99EFszxC7f6fo5VFR1cBMZMZq3NFvZzWG"
 			]
 		}
 	},

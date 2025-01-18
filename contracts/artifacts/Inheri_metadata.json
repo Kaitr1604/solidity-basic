@@ -7,11 +7,6 @@
 		"abi": [
 			{
 				"inputs": [],
-				"stateMutability": "nonpayable",
-				"type": "constructor"
-			},
-			{
-				"inputs": [],
 				"name": "a",
 				"outputs": [
 					{
@@ -38,41 +33,7 @@
 			},
 			{
 				"inputs": [],
-				"name": "bar",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "foo",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "test",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [
-					{
-						"internalType": "uint256",
-						"name": "_v",
-						"type": "uint256"
-					}
-				],
-				"name": "test2",
-				"outputs": [],
-				"stateMutability": "nonpayable",
-				"type": "function"
-			},
-			{
-				"inputs": [],
-				"name": "testModifier",
 				"outputs": [],
 				"stateMutability": "nonpayable",
 				"type": "function"
@@ -91,7 +52,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_13_debug.sol": "DEBUG"
+			"contracts/a_14_inheritance.sol": "Inheri"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -105,12 +66,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/a_13_debug.sol": {
-			"keccak256": "0x4fc7c76e4a82b55acec53152ff651b260072313bc6d35d147c2c7d6ceecde84a",
+		"contracts/a_14_inheritance.sol": {
+			"keccak256": "0x4bfc30aac0d514977a0f4c63579330ffecd780336fdc88364a58ad8da0162036",
 			"license": "None",
 			"urls": [
-				"bzz-raw://6a2288d621374d92627990739aabae2a9debdaa421ba8463b7379561112b616d",
-				"dweb:/ipfs/QmQQkib9mbaA7dZATeFhzdE1N5JCkdkJPdaPAeY3jnKjzx"
+				"bzz-raw://08ccb190c0e254529a8fc3cc5ca79dfba3bf806f8daba9cba2d5918b49b86992",
+				"dweb:/ipfs/QmNiPgGJEyWSn6Yt9RAHMejdR7Dbd161NMpJyK4bRb81Do"
 			]
 		}
 	},

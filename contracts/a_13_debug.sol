@@ -4,8 +4,13 @@ pragma solidity 0.8.3;
 contract DEBUG {
     //require
     //modifier
-    uint public a = 10;
-    uint public b = 100;
+    uint public a;
+    uint public b;
+
+    constructor() {
+        a = 10;
+        b = 100;
+    }
     
     function foo() public  {
         a = 5;
