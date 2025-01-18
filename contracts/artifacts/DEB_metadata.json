@@ -39,7 +39,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/a_13_debug.sol": "SendAndReceiveETH"
+			"contracts/a_13_debug.sol": "DEB"
 		},
 		"evmVersion": "istanbul",
 		"libraries": {},
@@ -54,11 +54,11 @@
 	},
 	"sources": {
 		"contracts/a_13_debug.sol": {
-			"keccak256": "0x3e032f2a60bc61b0d7753c30bf569ef1371be173258526d3bce37d81f7322113",
+			"keccak256": "0xdc8a5f40d3ce5830bdeddf635264bff0cca24d100d8394b89113e06cab173ee8",
 			"license": "None",
 			"urls": [
-				"bzz-raw://4d2afa63b2980557ed0950a3224f1a70e3fac0c2ef166095cd07f0d0c460c9ed",
-				"dweb:/ipfs/QmU33DnMN2RF5u5LKDvLVsAmQb5fxeDtow9g64i5r2K3b4"
+				"bzz-raw://a40867390c23150b717edcc97473ca0965b37844549883ccf9d6749659fdfc52",
+				"dweb:/ipfs/QmdYi2rE74LYZ8HyYavWWEPAWQDRUJX1ykDUDhrTGfCsjB"
 			]
 		}
 	},
