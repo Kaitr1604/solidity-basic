@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/variables.sol": "Hello"
+			"contracts/variables.sol": "Varia"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +33,11 @@
 	},
 	"sources": {
 		"contracts/variables.sol": {
-			"keccak256": "0x08e36b8a3a7c5298cf7274706047134f8e064d81391c67c59e1eb0001cfffdf4",
+			"keccak256": "0xb919506346819e7b9d18d8191aabcf290008991c777cd4d5060df3bc2afbbef7",
 			"license": "None",
 			"urls": [
-				"bzz-raw://49dfb62c4b8210303a4a30abebbb1325a7e65aeae07a4940681c821cb05d122a",
-				"dweb:/ipfs/QmYQLt7gcpPjtbnb68J9w1i6XJ5k85CJHEKQ9ykF2Pb8wE"
+				"bzz-raw://aaf60b83835639770bc49a23541f4492ff0bb48060fca439f3fa54b6406a137c",
+				"dweb:/ipfs/QmPW43j7uCLY82f4kbLBKfeExxYJcstWmpJSkBE42q6LPR"
 			]
 		}
 	},
